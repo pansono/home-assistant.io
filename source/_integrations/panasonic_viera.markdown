@@ -158,6 +158,7 @@ The list with all known valid keys can be found [here](https://github.com/floria
 - TX LF37E30 (can't power on)
 - TX-P42STW50
 - TX-P42VT30E
+- TX-49EX600W
 - TX-P50GT30Y
 - TX-P50GT60E
 - TX-65HZ1000W
